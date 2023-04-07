@@ -3,6 +3,7 @@
 A scheduler for your normal work day hours.
 
 # Mock-up
+![frostyfaust github io_Work-Day-Scheduler_](https://user-images.githubusercontent.com/55112932/230531733-e894803a-86fb-41fd-b55b-eee0ab85ac33.png)
 
 # Link to live site
 [Work Day Scheduler](https://frostyfaust.github.io/Work-Day-Scheduler/)
